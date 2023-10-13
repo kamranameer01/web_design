@@ -1,0 +1,312 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.all{
+    max-width: 100%;
+    max-height: 200vh;
+    background-size: cover;
+    background-color: white;
+}
+.head{
+    max-width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.head nav ul li{
+    display: inline-block;
+    padding: 10px;
+}
+.Search{
+    padding: 5px 5px;
+    border-radius: 10px;
+}
+.lock{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+div.main{
+    background-color: #F7F6F0;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 90px;
+}
+.main2{
+    text-align: center;
+    padding-top: 230px;
+}
+div.Season{
+    padding-top: 50px;
+    text-align: center;
+}
+.main4{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.main4 h1{
+    text-align: center;
+}
+.main4 button{
+    background-color: #F7F6F0;
+    border: 1px solid transparent;
+    padding: 10px 10px;
+    border-radius: 15px;
+    position: absolute;
+    margin-left: 170px;
+    margin-top: 30px;
+}
+button:hover{
+    background-color: rgb(0, 255, 42);
+}
+div.Our{
+    text-align: center;
+    padding-top: 100px;
+}
+.main5{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.main5 h4,p{
+    text-align: center;
+}
+div.main{
+    background-color: #F7F6F0;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 90px;
+}
+div.main6{
+    background-color: #F7F6F0;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 90px;
+    padding-bottom: 60px;
+    padding-top: 100px;
+}
+div.off{
+   text-align: center;
+    padding-top: 100px;
+}
+table{
+    margin: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+th{
+    padding: 10px 40px;
+    font-size: 20px;
+}
+div.color{
+    background-color: #F7F6F0;
+    margin: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+div.main7{
+    justify-content: space-between;
+    display: flex;
+    padding-top: 30px;
+}
+h4{
+    text-align: center;
+}
+.main8{
+    justify-content: space-between;
+    display: flex;
+    padding-top: 40px;
+}
+button.SEE{
+    border: 1px solid transparent;
+    padding: 10px 50px;
+    border-radius: 15px;
+    margin-left: 100px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.Featured h1{
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.main9{
+    display: grid;
+    justify-content: space-between;
+
+}
+.main10{
+    background-image: url(image18.png);
+    width: 397px;
+    height: 336px;
+    margin: 10px;
+}
+.main10 img{
+    position: absolute;
+    margin: 280px 340px;
+}
+.main10 h5{
+    position: absolute;
+    margin: 270px 30px;
+    font-size: 15px;
+}
+.main11{
+    background-image: url(image19.png);
+    width: 397px;
+    height: 336px;
+    margin: 10px;
+}
+.main11 img{
+    position: absolute;
+    margin: 282px 340px;
+}
+.main11 h5{
+    position: absolute;
+    margin: 270px 30px;
+    font-size: 15px;
+}
+.center{
+    display: flex;
+    justify-content: space-between;
+    margin: 40px;
+}
+.centerimage{
+    padding: 30px;
+    
+}
+.main12{
+    background-image: url(image21.png);
+    width: 397px;
+    height: 336px;
+    margin: 10px;
+}
+.main12 img{
+    position: absolute;
+    margin: 280px 340px;
+}
+.main12 h5{
+    position: absolute;
+    margin: 270px 30px;
+    font-size: 15px;
+}
+.main13{
+    background-image: url(image22.png);
+    width: 397px;
+    height: 336px;
+
+}
+.main13 img{
+    position: absolute;
+    margin: 280px 340px;
+}
+.main13 h5{
+    position: absolute;
+    margin: 270px 30px;
+    font-size: 15px;
+}
+div.What{
+    text-align: center;
+}
+.main14{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+}
+.back1{
+    background-color: #F7F6F0;
+    padding: 30px;
+    border-radius: 20px;
+}
+.ratingstar{
+    padding-left: 120px;
+    padding-top: 10px;
+}
+.back2{
+    background-color: #F7F6F0;
+}
+.main15{
+    margin: 100px;
+    padding-top: 100px;
+    padding-left: 100px;
+    justify-content: space-between;
+    display: flex;
+    padding-bottom: 100px;
+}
+.main15 h1{
+    padding: 70px;
+    padding-bottom: 30px;
+    padding-left: 60px;
+}
+.properties h2{
+    padding-top: 40px;
+}
+.vl{
+    width: 100px;
+    height: 700px;
+    border-left: 2px solid black;
+}
+input.fullname{
+    text-align: center;
+    margin: 30px;
+    padding: 6px 80px;
+    border-radius: 5px;
+}
+div.butsign{
+    padding-left: 120px;
+}
+button.signup{
+    padding: 14px 25px;
+    margin: 20px;
+    border-radius: 18px;
+}
+.butgoogle{
+    padding-left: 60px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+.fa-google{
+    font-size: 20px;
+}
+.fa-facebook{
+    font-size: 20px;
+}
+.google{
+    padding: 18px 34px;
+    border-radius: 30px;
+}
+.main16{
+    margin: 70px;
+}
+.main16{
+    justify-content: space-between;
+    display: flex;
+}
+div.aboutus h3{
+    padding-top: 20px;
+}
+.followus{
+    padding-right: 500px;
+}
+.followus h2{
+    padding-bottom: 20px;
+}
+.followus img{
+    height: 40px;
+    width: 40px;
+}
+.footer{
+    background-color: black;
+    padding: 15px;
+}
+.footer h4{
+    color: white;
+    text-align: center;
+}
